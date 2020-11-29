@@ -1,0 +1,9 @@
+{
+    
+    "name1" : "ajay",
+    "value1" : ["10","20","30","40","20","10"],
+    "label1" : ["red","green","blue","pink","purple","cyan"],
+    "name2" : "name2",
+    "value2" : ["20","20","20","40","20","10"],
+    "label2" : ["pink","blue","orange","pink","purple","cyan"]
+}
